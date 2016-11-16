@@ -1,0 +1,11 @@
+# San Francisco Crime Classification
+This repo includes the script for the [San Francisco Crime Classification Kaggle competition](https://www.kaggle.com/c/sf-crime).
+
+## Requirements
+You need Jupyter Notebook to run the file, plus the following libraries installed:
+- pandas
+- numpy
+- sklearn
+
+## License
+The program is released under a MIT license.
